@@ -1,0 +1,7 @@
+{
+  "name": "dario_swain/dependency-level-three",
+  "type": "library",
+  "require": {
+    "dario_swain/re-captcha-library":    "1.0.*"
+  }
+}
